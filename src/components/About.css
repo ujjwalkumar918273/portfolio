@@ -1,0 +1,11 @@
+@media (width<767px){
+    .About-section{
+        margin: auto;
+       margin-top: 50px;
+        
+    }
+    .About-content{
+        margin: auto;
+        text-align: left;
+    }
+    }

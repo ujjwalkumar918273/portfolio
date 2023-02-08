@@ -1,0 +1,10 @@
+@media (width<767px){
+    .Skill-section{
+        margin: auto;
+    }
+    .Skill-heading{
+        margin: auto;
+        text-align: center;
+        margin-top: 40px;
+    }
+    }

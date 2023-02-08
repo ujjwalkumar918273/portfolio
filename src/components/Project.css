@@ -1,0 +1,10 @@
+@media (width<767px){
+    .Project-section{
+        margin: auto;
+    }
+    .heading-section{
+        margin: auto;
+        text-align: center;
+        margin-top: 40px;
+    }
+    }
